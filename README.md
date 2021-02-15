@@ -38,7 +38,8 @@ the different opinions and personalities and learning styles of our fellow group
 While we do not tolerate any form of harassment, we strongly encourage good-faith disagreement
 and healthy skepticism––the lifeblood of science. Group members should be mindful, however,
 that how others perceive our opinions and actions depends heavily on their background. Without being
-tolerant with the intolerant, we should cut each other some slack, educate each other, and
+tolerant with the intolerant, and mindful of other people's sensibilities, we
+should cut each other some slack, educate each other, and
 build a better work place together.
 
 Useful readings:
