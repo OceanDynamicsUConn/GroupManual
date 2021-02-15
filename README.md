@@ -31,7 +31,7 @@ If a group member engages in harassing behavior, Rocha and UConn may take any ac
 **If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
 immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
 
-Rocha also wants to a nice experience...
+Rocha also wants to nurture ... a nice experience...
 
 ### Work hard
 
