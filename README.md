@@ -32,9 +32,6 @@ If a group member engages in harassing behavior, Rocha and UConn may take any ac
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
 immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
-Anyone violating these rules may be temporarily suspended or permanently expelled from the group at Rocha's discretion.
-
 ### Work hard
 
 ### Communicate with the group
