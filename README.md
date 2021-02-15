@@ -32,8 +32,8 @@ If a group member engages in harassing behavior, Rocha and UConn may take any ac
 immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
 
 Rocha commits to nurturing a healthy, productive, and
-intellectually stimulating work environment, where all group members are able to do their
-best work and achieve their potential. This requires that we all be open-minded and respect
+intellectually stimulating work environment, where all group members thrive.
+This requires that we all be open-minded and respect
 the different opinions, personalities and learning styles of our fellow group members.
 While we do not tolerate any form of harassment, we strongly encourage healthy
 skepticism and good-faith disagreement––the lifeblood of science. Group members should be mindful, however,
