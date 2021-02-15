@@ -19,18 +19,17 @@ guidelines
 and complete the required training about harassment and discrimination.  As a UConn Professor,
 Rocha is a mandatory reporter of violations, however small, to UConn's code of conduct.
 
-Rocha is strongly committed to providing a harrassment-free experience for everybody, regardless of gender identity and expression, age, sexual orientation,
-disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
-Our group does not tolerate harrassment of group members and visitors of any form. Sexual language and imagery is
+Our group does not tolerate harrassment of group members and visitors of any form.
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
 inappropriate at our work place, including work-related social events and online media
 (e-mail, Twitter, slack).
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
 If a group member engages in harassing behavior, Rocha and UConn may take any action they deem appropriate, including warning, temporary suspension, or expulsion from the group.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
-immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).
+**If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
+immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
+
+Rocha also wants to a nice experience...
 
 ### Work hard
 
