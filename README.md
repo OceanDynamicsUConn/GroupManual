@@ -4,16 +4,16 @@ This is an evolving draft of guidelines for how to participate in the Ocean Dyna
 Research Group at UConn. These guidelines build on similar documents by
 colleagues, including Ryan Abernathey, Katy Huff, and Baylor Fox Kemper
 
-## The short version
+# The short version
 
 - **Respect others**: abide by the code of conduct.
 - **Work hard**: dedication begets success.
 - **Communicate with the group**: do not isolate from your peers.
 - **Take care of yourself**: your physical and mental health is paramount.
 
-## The long version
+# The long version
 
-### Respect others
+## Respect others
 All group members must review and comply with UConn's code of conduct and ethical
 guidelines
 ([faculty and staff](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/),
@@ -21,7 +21,7 @@ guidelines
 and complete the required training about harassment and discrimination.  As a UConn Professor,
 Rocha is a mandatory reporter of violations, however small, to UConn's code of conduct.
 
-Our group does not tolerate harrassment of group members and visitors.
+Our group does not tolerate harassment of group members and visitors.
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof),
 and country of origin. It also includes deliberate intimidation, stalking, following, uninvited photography or recording, sustained disruption of talks (if it makes the speaker uncomfortable), inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
 inappropriate at our work place, including work-related social events and online media
@@ -29,17 +29,26 @@ inappropriate at our work place, including work-related social events and online
 
 If a group member engages in harassing behavior, Rocha and UConn may take any action they deem appropriate, including warning, temporary suspension, or expulsion from the group.
 
-**If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
+**If you are being harassed, notice that someone else is being harassed, or have any concerns, please
 immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
 
-Rocha also wants to nurture ... a nice experience...
+Beyond providing a harassment-free environment, Rocha wants to nurture healthy and
+intellectually stimulating work place, where all group rise... and are able to do their
+best work ... a nice experience...
 
-### Work hard
+## Work hard
 
-### Communicate with the group
 
-### Take care of yourself
+### PI responsibilities
 
-## PI responsibilities
 
-## Graduate student responsibilities
+### Graduate student responsibilities
+
+
+### Vacation and Expectations for "Being Present"
+
+
+## Communicate with the group
+
+
+## Take care of yourself
