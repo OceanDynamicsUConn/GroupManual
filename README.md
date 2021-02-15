@@ -17,8 +17,11 @@ guidelines
 ([faculty and staff](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/),
 [students](https://community.uconn.edu/wp-content/uploads/sites/523/2020/09/20_21-The-Student-Code-1.pdf))
 and complete the required training about harassment and discrimination.  As a UConn Professor,
-Rocha is a mandatory reporter of any incidents, however small, that violate UConn's policy and
-bylaws.
+Rocha is a mandatory reporter of violations---however small  ---to UConn's code of conduct.
+
+Rocha is strongly committed to providing a harrassment-free experience for all group members
+and visitors, regardless of gender identity and expression, age, sexual orientation,
+disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. 
 
 
 ### Work hard
