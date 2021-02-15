@@ -34,8 +34,8 @@ immediately contact Rocha or UConn's [Office of Institutional Equity](https://eq
 
 Beyond providing a harassment-free environment, Rocha wants to nurture healthy and
 intellectually stimulating work place, where all group members are able to do their
-best work and achieve their potential. This requires that we all become mindful of
-our fellow group members different personalities and ... 
+best work and achieve their potential. This requires that we all respect
+the different opinions and personalities and learning styles of our fellow group members. 
 
 ## Work hard
 
