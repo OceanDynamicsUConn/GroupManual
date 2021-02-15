@@ -27,7 +27,7 @@ inappropriate at our work place, including work-related social events and online
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-If a group member engages in harassing behavior, Rocha and UConn may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a group member engages in harassing behavior, Rocha and UConn may take any action they deem appropriate, including warning, temporary suspension, or expulsion from the group.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
 immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).
