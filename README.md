@@ -23,7 +23,7 @@ Rocha is a mandatory reporter of violations, however small, to UConn's code of c
 
 Our group does not tolerate harrassment of group members and visitors.
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof),
-and country of origins. It also includes deliberate intimidation, stalking, following, uninvited photography or recording, sustained disruption of talks (if it makes the speaker uncomfortable), inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
+and country of origin. It also includes deliberate intimidation, stalking, following, uninvited photography or recording, sustained disruption of talks (if it makes the speaker uncomfortable), inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
 inappropriate at our work place, including work-related social events and online media
 (e-mail, slack).
 
