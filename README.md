@@ -17,7 +17,7 @@ guidelines
 ([faculty and staff](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/),
 [students](https://community.uconn.edu/wp-content/uploads/sites/523/2020/09/20_21-The-Student-Code-1.pdf))
 and complete the required training about harassment and discrimination.  As a UConn Professor,
-Rocha is a mandatory reporter of violations---however small  ---to UConn's code of conduct.
+Rocha is a mandatory reporter of violations, however small, to UConn's code of conduct.
 
 Rocha is strongly committed to providing a harrassment-free experience for everybody, regardless of gender identity and expression, age, sexual orientation,
 disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
@@ -30,7 +30,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 If a group member engages in harassing behavior, Rocha and UConn may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
-immediately contact Rocha or UConn's [Office of Institution Equity](https://equity.uconn.edu/discrimination/).
+immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 Anyone violating these rules may be temporarily suspended or permanently expelled from the group at Rocha's discretion.
