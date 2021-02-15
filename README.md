@@ -39,8 +39,15 @@ While we do not tolerate any form of harassment, we strongly encourage good-fait
 and healthy skepticism––the lifeblood of science. Group members should be mindful, however,
 that how others perceive our opinions and actions depends heavily on their background. Without being
 tolerant with the intolerant, we should cut each other some slack, educate each other and
-build a better community.
+build a better work place together.
 
+Useful readings:
+
+- [Opinion: Use science to stop sexual harassment in higher education](https://www.pnas.org/content/117/37/22614)
+- [Harassment should count as scientific misconduct](https://www.nature.com/articles/d41586-018-05076-2)
+- [A letter on justice and open debate](https://harpers.org/a-letter-on-justice-and-open-debate/)
+- [Academics Are Really, Really Worried About Their Freedom
+](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
 
 ## Work hard
 
