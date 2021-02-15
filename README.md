@@ -12,8 +12,9 @@ colleagues, including Ryan Abernathey, Katy Huff, and Baylor Fox Kemper
 - **Take care of yourself**: your physical and mental health is paramount.
 
 ### Respect others
+Group members must review and comply with UConn's code of conduct ([faculty and staff](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/), [students](https://community.uconn.edu/wp-content/uploads/sites/523/2020/09/20_21-The-Student-Code-1.pdf)).
 
-### Work hard 
+### Work hard
 
 ### Communicate with the group
 
@@ -22,5 +23,3 @@ colleagues, including Ryan Abernathey, Katy Huff, and Baylor Fox Kemper
 ## PI responsibilities
 
 ## Graduate student responsibilities
-
-
