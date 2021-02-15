@@ -4,12 +4,14 @@ This is an evolving draft of guidelines for how to participate in the Ocean Dyna
 Research Group at UConn. These guidelines build on similar documents by
 colleagues, including Ryan Abernathey, Katy Huff, and Baylor Fox Kemper
 
-## Tenets
+## The short version
 
 - **Respect others**: abide by the code of conduct.
 - **Work hard**: dedication begets success.
 - **Communicate with the group**: do not isolate from your peers.
 - **Take care of yourself**: your physical and mental health is paramount.
+
+## The long version
 
 ### Respect others
 All group members must review and comply with UConn's code of conduct and ethical
