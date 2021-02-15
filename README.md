@@ -21,7 +21,7 @@ guidelines
 and complete the required training about harassment and discrimination.  As a UConn Professor,
 Rocha is a mandatory reporter of violations, however small, to UConn's code of conduct.
 
-Our group does not tolerate harrassment of group members and visitors of any form.
+Our group does not tolerate harrassment of group members and visitors.
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
 inappropriate at our work place, including work-related social events and online media
 (e-mail and slack).
