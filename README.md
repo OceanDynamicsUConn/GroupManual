@@ -37,7 +37,7 @@ best work and achieve their potential. This requires that we all be open-minded 
 the different opinions, personalities and learning styles of our fellow group members.
 While we do not tolerate any form of harassment, we strongly encourage healthy
 skepticism and good-faith disagreement––the lifeblood of science. Group members should be mindful, however,
-that how others perceive our opinions and actions depends heavily on their background. Attuned of other people's sensibilities, and without being
+that how others perceive our opinions and actions depends heavily on their background. Attuned to other people's sensibilities, and without being
 tolerant with the intolerant, we
 should cut each other some slack, educate one another, and
 build a better work place together.
