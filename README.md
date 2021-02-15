@@ -38,13 +38,14 @@ the different opinions and personalities and learning styles of our fellow group
 While we do not tolerate any form of harassment, we strongly encourage good-faith disagreement
 and healthy skepticism––the lifeblood of science. Group members should be mindful, however,
 that how others perceive our opinions and actions depends heavily on their background. Without being
-tolerant with the intolerant, we should cut each other some slack, educate each other and
+tolerant with the intolerant, we should cut each other some slack, educate each other, and
 build a better work place together.
 
 Useful readings:
 
 - [Opinion: Use science to stop sexual harassment in higher education](https://www.pnas.org/content/117/37/22614)
 - [Harassment should count as scientific misconduct](https://www.nature.com/articles/d41586-018-05076-2)
+- [Without inclusion, diversity initiatives may not be enough](https://science.sciencemag.org/content/357/6356/1101)
 - [A letter on justice and open debate](https://harpers.org/a-letter-on-justice-and-open-debate/)
 - [Academics Are Really, Really Worried About Their Freedom
 ](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
