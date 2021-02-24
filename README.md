@@ -51,7 +51,7 @@ Useful readings:
 - [Academics Are Really, Really Worried About Their Freedom
 ](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
 
-## Work hard
+## Work hard: roles and responsibilities
 
 
 ### PI responsibilities
@@ -59,10 +59,30 @@ The group PI has diverse and challenging responsibilities.
 These include:
 
 1. **Define the overall direction of the group**
+  One of the PI's critical tasks is to identify
+  interesting and relevant scientific problems
+  for our group to puzzle over. This requires
+  a broad and deep understanding of field,
+  creativity, and some luck.
 
 2. **Pursue funding**
+  The PI has the responsibility to pursue
+  support from federal agencies to fund our
+  research program. Getting extra-mural funding
+  is crucial, because a graduate student
+  at UConn costs tens of thousands of dollars per
+  year. Going to the field to collect new data
+  or buying computers and high-performance computing time
+  to run numerical models and analyze data also
+  costs a lot of money.
 
-3. **Mentor students and postdocs**
+3. **Mentor students**
+   One of the most serious (and fun) responsibilities
+   of the PI is to mentor junior group members, shepherding
+   them through the early stages of their career and helping
+   them develop into confident, humble and independent scientists.
+   (This applies even if the student wants to pursue a career in industry or
+   government or the third sector.)
 
 4. **Serve the department**
 
@@ -72,10 +92,8 @@ These include:
 
 7. **Conduct personal research**
 
-8. **Provide recommendation letters**
 
-
-### Graduate student responsibilities
+### Graduate student responsibilities (or what I expect for you)
 
 1. **Stay in good standing**
 
@@ -83,7 +101,7 @@ These include:
 
 3. **Write an Individual Development Plan**
 
-4. **Develop independence**
+4. **Become independent**
 
 5. **Communicate with the group**
 
