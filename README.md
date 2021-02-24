@@ -59,6 +59,7 @@ The group PI has diverse and challenging responsibilities.
 These include:
 
 1. **Define the overall direction of the group**
+
   One of the PI's critical tasks is to identify
   interesting and relevant scientific problems
   for our group to puzzle over. This requires
@@ -66,6 +67,7 @@ These include:
   creativity, and some luck.
 
 2. **Pursue funding**
+
   The PI has the responsibility to pursue
   support from federal agencies to fund our
   research program. Getting extra-mural funding
@@ -77,6 +79,7 @@ These include:
   costs a lot of money.
 
 3. **Mentor students**
+
    One of the most serious (and fun) responsibilities
    of the PI is to mentor junior group members, shepherding
    them through the early stages of their career and helping
