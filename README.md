@@ -23,7 +23,7 @@ Rocha is a mandatory reporter of harassment incidents, however small.
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof),
 and country of origin. It also includes deliberate intimidation, stalking, following, uninvited photography or recording, sustained disruption of talks (if it makes the speaker uncomfortable), inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
-inappropriate at our work place, including work-related social events and online media
+inappropriate at our work place, which includes work-related social events and online media
 (e-mail, slack).
 
 If a group member engages in harassing behavior, Rocha and UConn may take any action they deem appropriate, including warning, temporary suspension, or expulsion from the group.
@@ -55,15 +55,43 @@ Useful readings:
 
 
 ### PI responsibilities
+The group PI, Cesar Rocha, has a number of diverse and challenging responsibilities.
+There are:
+
+1. **Define the overall direction of the group**
+
+2. **Pursue funding**
+
+3. **Mentor students and postdocs**
+
+4. **Serve the department**
+
+5. **Serve the community**
+
+6. **Teach graduate and undergraduate classes**
+
+7. **Conduct personal research**
+
+8. **Provide recommendation letters**
 
 
 ### Graduate student responsibilities
 
+1. **Stay in good standing**
 
-### Vacation and Expectations for "Being Present"
+2. **Develop a research plan**
+
+3. **Write an Individual Development Plan**
+
+4. **Develop independence**
+
+5. **Communicate with the group**
 
 
-## Communicate with the group
+### Vacation and expectations for "being present"
+All group members should take four week of vacation per year. 
+
+## Communication  
 
 
-## Take care of yourself
+## Physical and mental health
