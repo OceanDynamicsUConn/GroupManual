@@ -62,19 +62,20 @@ These include:
   One of the PI's critical tasks is to identify
   interesting and relevant scientific problems
   for our group to puzzle over. This requires
-  a broad and deep understanding of field,
-  creativity, and some luck.
+  a broad and deep understanding of field and
+  creativity and luck.
 
 2. **Pursue funding**:
   The PI has the responsibility to pursue
-  support from federal agencies to fund our
+  funds from federal agencies to support our
   research program. Getting extra-mural funding
   is crucial, because a graduate student
   at UConn costs tens of thousands of dollars per
   year. Going to the field to collect new data
   or buying computers and high-performance computing time
   to run numerical models and analyze data also
-  costs a lot of money.
+  costs a lot of money. Cesar's summer salary is also paid
+  with extra-mural funds.
 
 3. **Mentor students**:
    One of the most serious (and fun) responsibilities
