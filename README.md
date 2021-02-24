@@ -19,19 +19,19 @@ guidelines
 ([faculty and staff](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/),
 [students](https://community.uconn.edu/wp-content/uploads/sites/523/2020/09/20_21-The-Student-Code-1.pdf))
 and complete the required training about harassment and discrimination.  As a UConn Professor,
-Rocha is a mandatory reporter of harassment incidents, however small.
+Cesar is a mandatory reporter of harassment incidents, however small.
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof),
 and country of origin. It also includes deliberate intimidation, stalking, following, uninvited photography or recording, sustained disruption of talks (if it makes the speaker uncomfortable), inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
 inappropriate at our work place, which includes work-related social events and online media
 (e-mail, slack).
 
-If a group member engages in harassing behavior, Rocha and UConn may take any action they deem appropriate, including warning, temporary suspension, or expulsion from the group.
+If a group member engages in harassing behavior, Cesar and UConn may take any action they deem appropriate, including warning, temporary suspension, or expulsion from the group.
 
 **If you are being harassed, notice that someone else is being harassed, or have any concerns, please
-immediately contact Rocha or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
+immediately contact Cesar or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
 
-Rocha commits to nurturing a healthy, productive, and
+Cesar commits to nurturing a healthy, productive, and
 intellectually stimulating work environment, where all group members thrive.
 This requires that we all be open-minded and respect
 the different opinions, personalities and learning styles of our fellow group members.
@@ -55,8 +55,8 @@ Useful readings:
 
 
 ### PI responsibilities
-The group PI, Cesar Rocha, has a number of diverse and challenging responsibilities.
-There are:
+The group PI has diverse and challenging responsibilities.
+These include:
 
 1. **Define the overall direction of the group**
 
@@ -89,7 +89,7 @@ There are:
 
 
 ### Vacation and expectations for "being present"
-All group members should take four week of vacation per year. 
+All group members should take four week of vacation per year.
 
 ## Communication  
 
