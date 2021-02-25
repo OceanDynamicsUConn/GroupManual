@@ -107,7 +107,7 @@ These include:
 
 6. **Teach graduate and undergraduate classes**:
     As a professor, the PI teaches undergrad or graduate classes at UConn every
-    Fall and Spring. Cesar is committed to pedagogical excellence, and teaching
+    Fall and Spring semesters. Cesar is committed to pedagogical excellence, and teaching
     a great course is time-consuming, especially the first time through.   
 
 7. **Conduct personal research**
@@ -130,7 +130,7 @@ These include:
     excellent grades may matter, because if you decide to pursue a PhD, the admissions
     committee will review your transcripts. If you are a doctoral student, grades
     don't matter much, because most prospective employers will not ask for you
-    transcripts. What matters most––both at the Master's and doctoral levels––is
+    transcripts. What truly matters––both at the Master's and doctoral levels––is
     that you develop mastery of the material discussed in class. (You could
     be a straight-A student on paper but know little about the material.)  What
     will make you an excellent professional is a solid skillset (*de facto*,
