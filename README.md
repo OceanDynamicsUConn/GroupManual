@@ -128,9 +128,14 @@ These include:
     committee will review your transcripts. If you are a doctoral student, grades
     don't matter much, because most prospective employers will not ask for you
     transcripts. What matters most––both at the Master's and doctoral levels––is
-    that you master the material discussed in class.
+    that you develop mastery of the material discussed in class. Developing solid
+    skills (*de facto*, not *de jure*) necessary to do your work is
+    what will make you an excellent professional
+    in academia and beyond.  (You could
+    be a straight-A student on paper but know little about the material.)
 
 2. **Develop a research plan**
+    
 
 3. **Write an Individual Development Plan**
 
