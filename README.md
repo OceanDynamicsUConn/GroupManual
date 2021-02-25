@@ -85,16 +85,16 @@ These include:
    (This applies even if the student wants to pursue a career in industry or
    government or the third sector.) The PI also
    works with students from other groups, serving as their associate advisor.
-   For Cesar, mentoring is one of the most fun parts of his job.
+   For Cesar, mentoring is one of the satisfying fun parts of his job.
 
-4. **Serve the department**
+4. **Serve the department**:
    As a UConn faculty, the PI is expected to serve the department. This includes
    attending regular department meetings, representing the department
    in college-wide and university-wide initiatives,  and occasionally
-   serving on hiring committees. For Cesar, this is the least fun part of
-   his job.  
+   serving on hiring committees. For Cesar, department service is the least fun
+   part of his job.  
 
-5. **Serve the community**
+5. **Serve the community**:
    As an active scientist in the field of Physical Oceanography, the PI engages
    in scientific community service. This includes, serving on thesis committees,
    regularly reviewing
@@ -102,19 +102,21 @@ These include:
    agencies, and occasionally serving on review panels and professional
    organization committees.
 
-6. **Teach graduate and undergraduate classes**
+6. **Teach graduate and undergraduate classes**:
     As a professor, the PI teaches undergrad or graduate classes at UConn every
     semester. Teaching a great course is time-consuming, especially the first
     time through.   
 
 7. **Conduct personal research**
-    On top of all the above responsibilities, the PI conducts his personal research,
-    which is not necessarily related to his group. For Cesar, this is the most
-    fun part of his job.
+    On top of all the above responsibilities, the PI conducts his personal research.
+    For Cesar, this is the most fun part of his job.
 
 ### Graduate student responsibilities (or what I expect from you)
 
-1. **Stay in good standing**
+1. **Stay in good standing**:
+    It is you responsibility to review all formal requirements of the
+    [Graduate School](https://grad.uconn.edu/) and the [department](https://marinesciences.uconn.edu/).
+    
 
 2. **Develop a research plan**
 
