@@ -107,8 +107,8 @@ These include:
 
 6. **Teach graduate and undergraduate classes**:
     As a professor, the PI teaches undergrad or graduate classes at UConn every
-    semester. Teaching a great course is time-consuming, especially the first
-    time through.   
+    Fall and Spring. Cesar is committed to pedagogical excellence, and teaching
+    a great course is time-consuming, especially the first time through.   
 
 7. **Conduct personal research**
     On top of all the above responsibilities, the PI conducts his personal research.
