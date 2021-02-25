@@ -128,24 +128,28 @@ These include:
     committee will review your transcripts. If you are a doctoral student, grades
     don't matter much, because most prospective employers will not ask for you
     transcripts. What matters most––both at the Master's and doctoral levels––is
-    that you develop mastery of the material discussed in class. Developing solid
-    skills (*de facto*, not *de jure*) necessary to do your work is
-    what will make you an excellent professional
-    in academia and beyond.  (You could
-    be a straight-A student on paper but know little about the material.)
+    that you develop mastery of the material discussed in class. (You could
+    be a straight-A student on paper but know little about the material.)  Having
+    a solid skillset (*de facto*, not *de jure*) necessary to do your work is what
+    will make you an excellent professional.
 
 2. **Develop a research plan**
-    
+    In consultation with Cesar, you should develop a long-term plan for your research,
+    with clear goals and milestones of analysis. You should develop contingency plans
+    and refine your research plan as your project evolves. Cesar will use your research
+    plan to assess whether you are making good progress towards your degree.
 
-3. **Write an Individual Development Plan**
+3. **Focus on your research**:
 
-4. **Become independent**
+4. **Write an Individual Development Plan**
 
-5. **Communicate with the group**
+5. **Become independent**
+
+6. **Communicate with the group**
 
 
 ### Vacation and expectations for "being present"
-All group members should take four week of vacation per year.
+All group members should take four weeks of vacation per year.
 
 ## Communication  
 
