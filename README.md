@@ -78,23 +78,41 @@ These include:
   with extra-mural funds.
 
 3. **Mentor students**:
-   One of the most serious (and fun) responsibilities
+   One of the most serious responsibilities
    of the PI is to mentor junior group members, shepherding
    them through the early stages of their career and helping
    them develop into confident, humble and independent scientists.
    (This applies even if the student wants to pursue a career in industry or
-   government or the third sector.)
+   government or the third sector.) The PI also
+   works with students from other groups, serving as their associate advisor.
+   For Cesar, mentoring is one of the most fun parts of his job.
 
 4. **Serve the department**
+   As a UConn faculty, the PI is expected to serve the department. This includes
+   attending regular department meetings, representing the department
+   in college-wide and university-wide initiatives,  and occasionally
+   serving on hiring committees. For Cesar, this is the least fun part of
+   his job.  
 
 5. **Serve the community**
+   As an active scientist in the field of Physical Oceanography, the PI engages
+   in scientific community service. This includes, serving on thesis committees,
+   regularly reviewing
+   manuscripts submitted to scientific journals and proposal submitted to funding
+   agencies, and occasionally serving on review panels and professional
+   organization committees.
 
 6. **Teach graduate and undergraduate classes**
+    As a professor, the PI teaches undergrad or graduate classes at UConn every
+    semester. Teaching a great course is time-consuming, especially the first
+    time through.   
 
 7. **Conduct personal research**
+    On top of all the above responsibilities, the PI conducts his personal research,
+    which is not necessarily related to his group. For Cesar, this is the most
+    fun part of his job.
 
-
-### Graduate student responsibilities (or what I expect for you)
+### Graduate student responsibilities (or what I expect from you)
 
 1. **Stay in good standing**
 
