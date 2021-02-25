@@ -156,7 +156,7 @@ These include:
     while you get your degree, a privilege enjoyed by very few Americans. You
     should approach your research seriously and professionally.
 
-5. **Become independent**
+5. **Become independent**:
     Your ultimate goal should be to become an independent scientist––even if you
     want to pursue a career outside research. While Cesar adopts a hands-on
     approach to advising, especially in the beginning of your tenure as a grad student,
