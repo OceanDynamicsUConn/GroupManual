@@ -87,7 +87,7 @@ These include:
    (This applies even if the student wants to pursue a career in industry or
    government or the third sector.) The PI also
    works with students from other groups, serving as their associate advisor.
-   For Cesar, mentoring is one of the satisfying fun parts of his job. He dedicates
+   For Cesar, mentoring is one of the satisfying parts of his job. He dedicates
    a lot of time to his students, but also expects a lot from them.
 
 4. **Serve the department**:
