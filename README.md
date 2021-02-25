@@ -91,7 +91,7 @@ These include:
    a lot of time to his students, but also expects a lot from them.
 
 4. **Serve the department**:
-   As a UConn faculty, the PI is expected to serve the department. This includes
+   As a tenure-track professor, the PI is expected to serve the department. This includes
    attending regular department meetings, representing the department
    in college-wide and university-wide initiatives,  and occasionally
    serving on hiring committees. For Cesar, department service is the least fun
