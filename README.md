@@ -114,9 +114,21 @@ These include:
 ### Graduate student responsibilities (or what I expect from you)
 
 1. **Stay in good standing**:
-    It is you responsibility to review all formal requirements of the
+    You must review all formal requirements of the
     [Graduate School](https://grad.uconn.edu/) and the [department](https://marinesciences.uconn.edu/).
-    
+    It is your responsibility to stay on top of coursework requirements and
+    deadlines for registration, comprehensive and qualifying exams, committee meetings, etc.
+
+2. **Succeed in your coursework**:
+    The beginning of graduate school is dominated by coursework. Besides the required
+    classes, you should talk to Cesar about taking extra classes that could be useful
+    to your research topic and to your career in general. Succeeding in your
+    coursework goes much beyond getting good grades. If you are a Master's student, having
+    excellent grades may matter, because if you decide to pursue a PhD, the admissions
+    committee will review your transcripts. If you are a doctoral student, grades
+    don't matter much, because most prospective employers will not ask for you
+    transcripts. What matters most---both at the Master's and doctoral levels---
+    is that you master the material discussed in class. 
 
 2. **Develop a research plan**
 
