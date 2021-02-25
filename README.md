@@ -37,7 +37,7 @@ This requires that we all be open-minded and respect
 the different opinions, personalities and learning styles of our fellow group members.
 While we do not tolerate any form of harassment, we strongly encourage healthy
 skepticism and good-faith disagreement––the lifeblood of science. Group members should be mindful, however,
-that how others perceive our opinions and actions depends heavily on their background. Attuned to other people's sensibilities, and without being
+that the way others perceive our opinions and actions depends heavily on their background. Attuned to other people's sensibilities, and without being
 tolerant with the intolerant, we
 should cut each other some slack, educate one another, and
 build a better work place together.
@@ -171,9 +171,9 @@ These include:
     (see communication section below).
 
 
-
 ### Expectations for "being present" and vacation
 All group members should take four weeks of vacation per year.
+
 
 ## Communication  
 
