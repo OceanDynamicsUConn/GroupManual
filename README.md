@@ -50,6 +50,8 @@ Useful readings:
 - [A letter on justice and open debate](https://harpers.org/a-letter-on-justice-and-open-debate/)
 - [Academics Are Really, Really Worried About Their Freedom
 ](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
+- [On Being a Scientist](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in)
+
 
 ## Work hard: roles and responsibilities
 
@@ -85,7 +87,8 @@ These include:
    (This applies even if the student wants to pursue a career in industry or
    government or the third sector.) The PI also
    works with students from other groups, serving as their associate advisor.
-   For Cesar, mentoring is one of the satisfying fun parts of his job.
+   For Cesar, mentoring is one of the satisfying fun parts of his job. He dedicates
+   a lot of time to his students, but also expects a lot from them.
 
 4. **Serve the department**:
    As a UConn faculty, the PI is expected to serve the department. This includes
@@ -129,23 +132,44 @@ These include:
     don't matter much, because most prospective employers will not ask for you
     transcripts. What matters most––both at the Master's and doctoral levels––is
     that you develop mastery of the material discussed in class. (You could
-    be a straight-A student on paper but know little about the material.)  Having
-    a solid skillset (*de facto*, not *de jure*) necessary to do your work is what
-    will make you an excellent professional.
+    be a straight-A student on paper but know little about the material.)  What
+    will make you an excellent professional is a solid skillset (*de facto*,
+    not *de jure*) coupled with a desire and an ability to quickly learn new things.
 
-2. **Develop a research plan**
+2. **Develop a research plan**:
     In consultation with Cesar, you should develop a long-term plan for your research,
-    with clear goals and milestones of analysis. You should develop contingency plans
-    and refine your research plan as your project evolves. Cesar will use your research
-    plan to assess whether you are making good progress towards your degree.
+    with clear goals and milestones. You should develop contingency plans
+    and refine your long-term plan as your research project evolves. Cesar will
+    use your research plan to assess whether you are making satisfactory progress
+    towards your degree.
 
-3. **Focus on your research**:
+3. **Write an Individual Development Plan**:
+    The department requires every graduate student to have an individual development
+    plan, identifying short-term and long-term career goals, strengths and areas that
+    need improvement. This is a great opportunity to reflect on your career
+    plans and whether you are making good progress towards your general professional
+    goals. Cesar will provide verbal and written feedback on your IDP.
 
-4. **Write an Individual Development Plan**
+4. **Focus on your research**:
+    Research is the most important aspect of your graduate education, so it should
+    be prioritized. You are funded with US tax-payer dollars to conduct research
+    while you get your degree, a privilege enjoyed by very few Americans. You
+    should approach your research seriously and professionally.
 
 5. **Become independent**
+    Your ultimate goal should be to become an independent scientist---even if you
+    would like to pursue a career outside research. While Cesar adopts a hands-on
+    approach to advising, especially in the beginning, he also expects you to
+    develop independence.  It is never
+    too early to become a self-starter. Don't wait to be told what to do. Read
+    broadly, attend seminars, apply for conferences, download new datasets and
+    software, develop code for new analyses. Take the initiative.
 
-6. **Communicate with the group**
+6. **Communicate with the group**:
+    You must attend group meetings and one-on-one meeting with Cesar. You are
+    also expected to communicate with your fellow group members more broadly
+    (see communication section below).
+
 
 
 ### Vacation and expectations for "being present"
