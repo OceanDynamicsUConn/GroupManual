@@ -127,8 +127,8 @@ These include:
     excellent grades may matter, because if you decide to pursue a PhD, the admissions
     committee will review your transcripts. If you are a doctoral student, grades
     don't matter much, because most prospective employers will not ask for you
-    transcripts. What matters most--both at the Master's and doctoral levels--
-    is that you master the material discussed in class.
+    transcripts. What matters most––both at the Master's and doctoral levels––is
+    that you master the material discussed in class.
 
 2. **Develop a research plan**
 
