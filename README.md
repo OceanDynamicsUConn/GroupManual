@@ -160,8 +160,8 @@ These include:
     Your ultimate goal should be to become an independent scientist––even if you
     want to pursue a career outside research. While Cesar adopts a hands-on
     approach to advising, especially in the beginning of your tenure as a grad student,
-    he also expects you to develop independence. This will come at different times,
-    depending on your background and academic level.  But it is never
+    he also expects you to develop independence. This come at different times for each
+    student, depending on your background and academic level.  But it is never
     too early to become a self-starter. Don't wait to be told what to do. Read
     broadly, attend seminars, apply for conferences, download new datasets and
     software, develop code for new analyses. Take the initiative.
