@@ -167,7 +167,7 @@ These include:
     software, develop code for new analyses. Take the initiative.
 
 6. **Communicate with the group**:
-    You must attend group meetings and one-on-one meeting with Cesar. You are
+    You must attend group meetings and one-on-one meetings with Cesar. You are
     also expected to communicate with your fellow group members more broadly
     (see communication section below).
 
