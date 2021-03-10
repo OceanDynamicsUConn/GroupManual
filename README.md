@@ -194,12 +194,22 @@ and diligent work. Here are some groud rules.
 
     Of course, you may need to work remotely for many different reasons (life events, pandemic, bad weather). If your remote work is just for a few days, you don't need to notify Cesar, unless we have an in person meeting that you will miss (or have join in remotely). But if you decide to work remotely for a week or longer, you should first discuss your plans with Cesar.
 
-3. **Vacation and sick days**
+3. **Weekly meetings**:
+    We will hold weekly one-on-one meetings to discuss your work. These meetings aim to define the overall direction of your research and make sure you are making significant progress towards your degree.  You should prepare for the meetings, because Cesar will ask you to summarize what you have been working. We will address any questions you have and define plans for the following week. We will also hold group meetings where you will occasionally have to present the status of your current work.
 
-    You are entitled to a number of days of [paid leave](https://hr.uconn.edu/ga-leave-administration/). Regardless of UConn's lack of paid vacation for graduate students, Cesar recommends that all group members take four weeks of vacation per year.
-    Cesar will generally take two weeks of time off during Holidays, after the end of Fall Semester, and more two weeks sometime in the summer. Cesar will notify you of his time off. You should notify him  at least two weeks in advance of your vacation plans.
+4. **Office hours**
+    In addition to one-on-one meetings, Cesar will also hold daily office hours for group members. On a first come first serve basis, group members can drop by his office with any specific questions about your work. This is a good opportunity to chat with Cesar if you can't get your code to work or are stuck in a particular derivation. 
+
+5. **Vacation and sick days**
+
+    You are entitled to a number of days of [paid leave](https://hr.uconn.edu/ga-leave-administration/) for some life events. Regardless of UConn's lack of paid vacation for graduate students, Cesar recommends that all group members take four weeks of vacation per year.
+    Cesar will generally take two weeks of time off during Holidays, after the end of Fall Semester, and two weeks sometime in the summer. Cesar will notify you of his time off. You should notify him  at least two weeks in advance of your vacation plans.
+
+
+
 
 ## Communication  
+
 
 
 ## Physical and mental health
