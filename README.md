@@ -177,7 +177,6 @@ Making satisfactory progress towards your degree requires steadfast
 and diligent work. Here are some groud rules.
 
 1. **Work schedule**:
-
     You should aim to work about 40 hours/week (8 hours/day during weekdays). *This is the 
     number you should submit in your bi-weekly time card report*. But Cesar won't keep track of your exact work hours, because the number of hours
     you put in matters less than the amount and quality of your work. The flexibility 
@@ -185,7 +184,6 @@ and diligent work. Here are some groud rules.
     compensated by some time off within weeks of your bouts of excessive work. Working long hours for months to years is strongly discouraged (see physical and mental health remarks below).
 
 2. **Expectations for "being present"**:
-
     While our work doesn't require a constant physical presence on campus (and so we easily adapted to remote work during the pandemic), the office still has a crucial role in our 
     work life. If you are easily distracted, coming to the office will help you develop a 
     structured work routine. At UConn, graduate students share offices with other students, and this provides an opportunity for you to develop a network of friends who will help you along the way, cheer you up when you have a bad day, and cheer you on as you walk to the finish line. 
@@ -197,19 +195,18 @@ and diligent work. Here are some groud rules.
 3. **Weekly meetings**:
     We will hold weekly one-on-one meetings to discuss your work. These meetings aim to define the overall direction of your research and make sure you are making significant progress towards your degree.  You should prepare for the meetings, because Cesar will ask you to summarize what you have been working. We will address any questions you have and define plans for the following week. We will also hold group meetings where you will occasionally have to present the status of your current work.
 
-4. **Office hours**
+4. **Office hours**:
     In addition to one-on-one meetings, Cesar will also hold daily office hours for group members. On a first come first serve basis, group members can drop by his office with any specific questions about your work. This is a good opportunity to chat with Cesar if you can't get your code to work or are stuck in a particular derivation. 
 
-5. **Vacation and sick days**
-
+5. **Vacation and sick days**:
     UConn graduate students are entitled to a number of days of [paid leave](https://hr.uconn.edu/ga-leave-administration/) for some life events. Regardless of UConn's lack of paid vacation for graduate students, Cesar recommends that all group members take four weeks of vacation per year.
     Cesar will generally take two weeks of time off during Holidays, after the end of Fall Semester, and two weeks sometime in the summer. Cesar will notify you of his time off. You should notify him  at least two weeks in advance of your vacation plans.
 
 ## Communication  
 
-All group members should often communicate with Cesar and the group. For administrative stuff (paperwork to sign, remote work and vacation notifications, etc), you should e-mail Cesar directly. For technical and scientific (technical python questions, interesting papers and scientific talks, etc) we should try our best to use the group's workspace on slack. Among other things, slack has the advantage of allowing us to easily share copy-and-past ready bits of code. Cesar checks slack twice a day (morning and afternoon) to see if there are any questions that require his attention.
+All group members should often communicate with Cesar and the group. For administrative stuff (paperwork to sign, remote work and vacation notifications, etc), you should e-mail Cesar directly. For technical and scientific (technical python questions, interesting papers and scientific talks, etc) we should try our best to use the group's workspace on slack. Among other things, slack has the advantage of allowing us to easily share copy-and-past ready bits of code among the group (we may also use Github for that purpose). Cesar checks slack twice a day (morning and afternoon) to see if there are any questions that require his attention.
 
-Cesar checks his e-mail only three times a day (early morning, mid-day, and late afternoon). For any urgent matters that require his immediate attention, please call his office or him personal phone. 
+Cesar checks his e-mail only three times a day (early morning, mid-day, and late afternoon). For any urgent matters that require his immediate attention, please call his office or his personal phone. 
 
 You are not expected to check your e-mail or slack very often. In fact, Cesar recommends that you develop healthy and productive e-mail and slack habits.  If you are working remotely, we may need a phone number to reach you if something urgent comes up.
 
