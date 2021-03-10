@@ -212,4 +212,16 @@ You are not expected to check your e-mail or slack very often. In fact, Cesar re
 
 ## Physical and mental health
 
+[Recent studies](https://www.nature.com/articles/nbt.4089?fbclid=IwAR1ujMp2cpoUOm984Lruc8ZJiC_1RPWherKesyT7oESy5frdjbGxHBHzhpQ) suggest that most graduate students are prone to anxiety and many develop 
+depression. Universities are slowly taking the initiative to tackle the root causes (at least the institutional ones) this mental health crisis. Cesar is also deeply committed to ensuring that his students enjoy a healthy and productive time at UConn. Here are a few groud rules to help us meet that goal.
 
+1. **Do NOT overwork** 
+
+2. **Be careful with social media**
+
+3. **Collaborate of your colleagues**
+
+4. **Keep an eye on your peers**
+
+5. **Seek help**: 
+    If you or a friends are experiencing a mental health crises, please seek help immediately at [UConn Student Health](https://studenthealth.uconn.edu/emergency-contacts/). If you are experiencing an unmanageable level of stress or have any related concerns, please seek help. UConn graduate students should explore all available resources at [UConn Student Health](https://studenthealth.uconn.edu/mental-health/). Cesar is also available to listen to your concerns, provide career advice, and help you develop a healthy work-life balance.
