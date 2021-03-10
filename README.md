@@ -219,7 +219,7 @@ depression. Universities are slowly taking the initiative to tackle the root cau
 
 2. **Be careful with social media**
 
-3. **Collaborate of your colleagues**
+3. **Collaborate with your colleagues**
 
 4. **Keep an eye on your peers**
 
