@@ -176,14 +176,16 @@ These include:
 Making satisfactory progress towards your degree requires steadfast 
 and diligent work. Here are some groud rules.
 
-1. **Work schedule**
-    You should aim for about 40 hours/week (8 hours/day during weekdays). *This is the 
+1. **Work schedule**:
+
+    You should aim to work about 40 hours/week (8 hours/day during weekdays). *This is the 
     number you should submit in your bi-weekly time card report*. But Cesar won't keep track of your exact work hours, because the number of hours
     you put in matters less than the amount and quality of your work. The flexibility 
     and demands of our work (paper submission and revision deadlines, field  work, conferences) means that we may sometimes work long hours. This should be
     compensated by working short hours or taking time off. Working long hours for months to years is strongly discouraged (see physical and mental health remarks below).
 
-2. **Expectations for ``being present''**
+2. **Expectations for ``being present''**:
+
     While our work doesn't require a constant physical presence on campus (and so we easily adapted to remote work during the pandemic), the office still has a crucial role in our 
     work life. If you are easily distracted, coming to the office will help you develop a 
     structured work routine. At UConn, graduate students share offices with other students, and this provides an opportunity for you to develop a network of friends who will help you along the way, cheer you up when you have a bad day, and cheer you on as you walk to the finish line. 
