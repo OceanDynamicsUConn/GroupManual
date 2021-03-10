@@ -192,15 +192,12 @@ and diligent work. Here are some groud rules.
     
     Our group also has a lab space, which we will use to for group meetings. You will have a key to the lab and are welcome to set up shop there, if you need some privacy.
 
-    If you decide to work remotely for longer than one day, you should let Cesar know of your plans.
+    Of course, you may need to work remotely for many different reasons (life events, pandemic, bad weather). If your remote work is just for a few days, you don't need to notify Cesar, unless we have an in person meeting that you will miss (or have join in remotely). But if you decide to work remotely for a week or longer, you should first discuss your plans with Cesar.
 
 3. **Vacation and sick days**
 
-
-
-
-All group members should take four weeks of vacation per year.
-
+    You are entitled to a number of days of [paid leave](https://hr.uconn.edu/ga-leave-administration/). Regardless of UConn's lack of paid vacation for graduate students, Cesar recommends that all group members take four weeks of vacation per year.
+    Cesar will generally take two weeks of time off during Holidays, after the end of Fall Semester, and more two weeks sometime in the summer. Cesar will notify you of his time off. You should notify him  at least two weeks in advance of your vacation plans.
 
 ## Communication  
 
