@@ -213,15 +213,27 @@ You are not expected to check your e-mail or slack very often. In fact, Cesar re
 ## Physical and mental health
 
 [Recent studies](https://www.nature.com/articles/nbt.4089?fbclid=IwAR1ujMp2cpoUOm984Lruc8ZJiC_1RPWherKesyT7oESy5frdjbGxHBHzhpQ) suggest that most graduate students are prone to anxiety and many develop 
-depression. Universities are slowly taking the initiative to tackle the root causes (at least the institutional ones) this mental health crisis. Cesar is also deeply committed to ensuring that his students enjoy a healthy and productive time at UConn. Here are a few groud rules to help us meet that goal.
+depression. Universities are slowly taking the initiative to tackle the root causes (at least the institutional ones) this mental health crisis. Cesar is also deeply committed to ensuring that his students enjoy a healthy and productive time at UConn. Here are a few guidelines to help us meet that goal.
 
-1. **Do NOT overwork** 
+1. **Do NOT overwork**:
+Between classes and research, graduate school often can be demanding and stressful. While this is true, it is important to realize that most knowledge professions, which involve long-term projects and peer competition and sometimes unclear deadlines, are demanding and stressful. You should always remember that graduate work is a marathon not a sprint. So graduate school provides you with an opportunity to develop a healthy work-life balance that will not only get you to the finish line, but also prepare you for the career challenges that lie ahead. This involves developing new habits and overcoming bad ones, setting intentional short-term and long-term goals, and planning your semester and weeks and days. It also involves good sleep hygiene, among other heathy habits (exercise, meditation, deep breathing). Find what works best for you.
 
-2. **Be careful with social media**
+Speaking from personal experience, Cesar can attest that if you overwork too much you will burn out. Burnout is [common among graduate students](https://www.nature.com/articles/d41586-019-01451-9). And among other deleterious effects, burnout will suppress your productivity, potentially jeopardizing the very career goals you are working so hard towards.
 
-3. **Collaborate with your colleagues**
+[Here] are some tips from young scientists to prevent burnout.
 
-4. **Keep an eye on your peers**
+2. **Be careful with social media**:
+Many scientists and students are now actively engaged in social media for many different reasons. Social media has benefits, such as allowing you to stay in touch with friends and family, network with people with shared interestes and goals, feel part of a community, and promote causes that you care about (digital activism). But there are many negative aspects that can cause you harm, such as exposure to cyberbullying and elevation of self-aborption, anxiety and depression, and even isolating (the oppositve of what social media purports to do). 
+
+While you are welcome to use social media as part of your work, you should develop a healthy relationship with the platforms you use. Do not confuse work with reading social media posts (even if those posts are related to your career goals and academic interests). Do not check your feeds more than once of twice during your work hours. Do not turn on notification or e-mail alerts. Be mindful of what you read, write, and promote on social media. Be aware that FOMO (fear of missing out) is real and affect scientists. And remember that scientists are humans, and humans like attention (one of the most important commodities of our times).
+
+3. **Collaborate with your colleagues**:
+Unchecked competition is one the root causes of anxiety in academic. Our antidote against this eveil is strong collaboration. Cesar enjoys collaborating with his students and encourages everyone in the group to collaborate with one anothers other. Share code and ideas with the group.  Help your colleague who can't get a code to work and are stuck on an analysis tasks. Help your classmate with homework (if allowed/encouraged by the instructor). Celebrate your colleague's accomplishments. 
+
+Of course, we all have our individual goals, so everyone should be mindful of each other's space and grateful for their generous time.
+
+4. **Keep an eye on your peers**:
+If you notice that a fellow group member is struggling, reach out and encourage them to seek help and talk to Cesar. There are many telltale sign of mental health issues you should be aware of, including sadness, confused thinking, excessive fears, extremme mood swings, and *withdrawal from friends, colleagues, and activities*.
 
 5. **Seek help**: 
     If you or a friends are experiencing a mental health crises, please seek help immediately at [UConn Student Health](https://studenthealth.uconn.edu/emergency-contacts/). If you are experiencing an unmanageable level of stress or have any related concerns, please seek help. UConn graduate students should explore all available resources at [UConn Student Health](https://studenthealth.uconn.edu/mental-health/). Cesar is also available to listen to your concerns, provide career advice, and help you develop a healthy work-life balance.
