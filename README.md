@@ -220,7 +220,7 @@ Between classes and research, graduate school often can be demanding and stressf
 
     Speaking from personal experience, Cesar can attest that if you overwork too much you will burn out. Burnout is [common among graduate students](https://www.nature.com/articles/d41586-019-01451-9). And among other deleterious effects, burnout will suppress your productivity, potentially jeopardizing the very career goals you are working so hard towards.
 
-[Here](https://science.sciencemag.org/content/365/6448/22) are some tips from young scientists to prevent burnout.
+    [Here](https://science.sciencemag.org/content/365/6448/22) are some tips from young scientists to prevent burnout.
 
 2. **Be careful with social media**:
 Many scientists and students are now actively engaged in social media for many different reasons. Social media has benefits, such as allowing you to stay in touch with friends and family, network with people with shared interestes and goals, feel part of a community, and promote causes that you care about (digital activism). But there are many negative aspects that can cause you harm, such as exposure to cyberbullying and elevation of self-aborption, anxiety and depression, and even isolating (the oppositve of what social media purports to do). 
