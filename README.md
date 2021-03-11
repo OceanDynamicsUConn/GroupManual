@@ -208,7 +208,7 @@ All group members should often communicate with Cesar and the group. For adminis
 
 Cesar checks his e-mail only three times a day (early morning, mid-day, and late afternoon). For any urgent matter that require his immediate attention, please call his office or his personal phone. 
 
-You are not expected to check your e-mail or slack very often. In fact, Cesar recommends that you develop healthy and productive e-mail and slack habits, which involve NOT working with your inbox open and de-activating any notifications (the kind of work we do require concentration).  If you are working remotely, we will need a phone number to reach you if something urgent comes up.
+You are not expected to check your e-mail or slack very often. In fact, Cesar recommends that you develop healthy and productive e-mail and slack habits, which involve NOT working with your inbox open and de-activating any notifications (the kind of work we do requires concentration).  If you are working remotely, we will need a phone number to reach you if something urgent comes up.
 
 ## Physical and mental health
 
