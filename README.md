@@ -206,7 +206,7 @@ and diligent work. Here are some groud rules.
 
 All group members should often communicate with Cesar and the group. For administrative stuff (paperwork to sign, remote work and vacation notifications, etc), you should e-mail Cesar directly. For technical and scientific (technical python questions, interesting papers and scientific talks, etc) we should try our best to use the group's workspace on slack. Among other things, slack has the advantage of allowing us to easily share copy-and-past ready bits of code among the group (we may also use Github for that purpose). Cesar checks slack twice a day (morning and afternoon) to see if there are any questions that require his attention.
 
-Cesar checks his e-mail only three times a day (early morning, mid-day, and late afternoon). For any urgent matters that require his immediate attention, please call his office or his personal phone. 
+Cesar checks his e-mail only three times a day (early morning, mid-day, and late afternoon). For any urgent matter that require his immediate attention, please call his office or his personal phone. 
 
 You are not expected to check your e-mail or slack very often. In fact, Cesar recommends that you develop healthy and productive e-mail and slack habits, which involve NOT working with your inbox open and de-activating any notifications (the kind of work we do require concentration).  If you are working remotely, we will need a phone number to reach you if something urgent comes up.
 
@@ -233,7 +233,7 @@ Unchecked competition is one the root causes of anxiety in academic. Our antidot
     Of course, we all have our individual goals, so everyone should be mindful of each other's space and grateful for their generous time.
 
 4. **Keep an eye on your peers**:
-If you notice that a fellow group member is struggling, reach out and encourage them to seek help and talk to Cesar. There are many telltale sign of mental health issues you should be aware of, including sadness, confused thinking, excessive fears, extremme mood swings, and *withdrawal from friends, colleagues, and activities*.
+If you notice that a fellow group member is struggling, reach out and encourage them to seek help and talk to Cesar. There are many telltale signs of mental health issues you should be aware of, including sadness, confused thinking, excessive fears, extremme mood swings, and *withdrawal from friends, colleagues, and activities*.
 
 5. **Seek help**: 
     If you or a friend are experiencing a mental health crisis, please seek help immediately at [UConn Student Health](https://studenthealth.uconn.edu/emergency-contacts/). If you are experiencing an unmanageable level of stress or have any related concerns, please seek help. UConn graduate students should explore all available resources at [UConn Student Health](https://studenthealth.uconn.edu/mental-health/). Cesar is also available to listen to your concerns, provide career advice, and help you develop a healthy work-life balance.
