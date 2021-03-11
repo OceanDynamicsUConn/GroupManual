@@ -233,7 +233,7 @@ Unchecked competition is one the root causes of anxiety in academics. Our antido
     Of course, we all have our individual goals, so everyone should be mindful of each other's space and grateful for their generous time.
 
 4. **Keep an eye on your peers**:
-If you notice that a fellow group member is struggling, reach out and encourage them to seek help and talk to Cesar. There are many telltale signs of mental health issues you should be aware of, including sadness, confused thinking, excessive fears, extremme mood swings, and *withdrawal from friends, colleagues, and activities*.
+If you notice that a fellow group member is struggling, reach out and encourage them to seek help and talk to Cesar. There are many telltale signs of mental health issues you should be aware of, including prolonged sadness, confused thinking, excessive fears, extreme mood swings, and *withdrawal from friends, colleagues, and activities*.
 
 5. **Seek help**: 
     If you or a friend are experiencing a mental health crisis, please seek help immediately at [UConn Student Health](https://studenthealth.uconn.edu/emergency-contacts/). If you are experiencing an unmanageable level of stress or have any related concerns, please seek help. UConn graduate students should explore all available resources at [UConn Student Health](https://studenthealth.uconn.edu/mental-health/). Cesar is also available to listen to your concerns, provide career advice, and help you develop a healthy work-life balance.
