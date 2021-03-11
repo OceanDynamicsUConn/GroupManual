@@ -206,7 +206,7 @@ and diligent work. Here are some groud rules.
 
 All group members should often communicate with Cesar and the group. For administrative stuff (paperwork to sign, remote work and vacation notifications, etc), you should e-mail Cesar directly. For technical and scientific (technical python questions, interesting papers and scientific talks, etc) we should try our best to use the group's workspace on slack. Among other things, slack has the advantage of allowing us to easily share copy-and-past ready bits of code among the group (we may also use Github for that purpose). Cesar checks slack twice a day (morning and afternoon) to see if there are any questions that require his attention.
 
-Cesar checks his e-mail only three times a day (early morning, mid-day, and late afternoon). For any urgent matter that require his immediate attention, please call his office or his personal phone. 
+Cesar checks his e-mail only three times a day (early morning, mid-day, and late afternoon). For any urgent matter, please call his office or his personal phone. 
 
 You are not expected to check your e-mail or slack very often. In fact, Cesar recommends that you develop healthy and productive e-mail and slack habits, which involve NOT working with your inbox open and de-activating any notifications (the kind of work we do requires concentration).  If you are working remotely, we will need a phone number to reach you if something urgent comes up.
 
