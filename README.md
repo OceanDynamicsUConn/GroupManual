@@ -238,7 +238,7 @@ If you notice that a fellow group member is struggling, reach out and encourage 
 5. **Seek help**: 
     If you or a friend are experiencing a mental health crisis, please seek help immediately at [UConn Student Health](https://studenthealth.uconn.edu/emergency-contacts/). If you are experiencing an unmanageable level of stress or have any related concerns, please seek help. UConn graduate students should explore all available resources at [UConn Student Health](https://studenthealth.uconn.edu/mental-health/). Cesar is also available to listen to your concerns, provide career advice, and help you develop a healthy work-life balance.
 
-# Suggest Reading
+# Suggested Reading
 Here is a list of useful books. We will hold summer book clubs to read and discuss them.
 
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1615577665&sr=8-1) by James Clear.
