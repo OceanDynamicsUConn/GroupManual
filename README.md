@@ -249,4 +249,4 @@ Here is a list of useful books. We will hold summer book clubs to read and discu
 
 - [A World Without Email](https://www.amazon.com/World-Without-Email-Reimagining-Communication-ebook/dp/B08BKSJX1M/ref=sr_1_1?dchild=1&keywords=a+world+without+email&qid=1615577788&sr=8-1) by Cal Newport. 
 
-- [Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/1250239087/ref=sr_1_2?dchild=1&keywords=why+you+should+quit+social+media&qid=1615577884&sr=8-2)
+- [Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/1250239087/ref=sr_1_2?dchild=1&keywords=why+you+should+quit+social+media&qid=1615577884&sr=8-2) by Jaron Lanier.
