@@ -129,7 +129,7 @@ These include:
     coursework goes much beyond getting good grades. If you are a Master's student, having
     excellent grades may matter, because if you decide to pursue a PhD, the admissions
     committee will review your transcripts. If you are a doctoral student, grades
-    don't matter much, because most prospective employers will not ask for you
+    don't matter much, because most prospective employers will not ask for your
     transcripts. What truly matters––both at the Master's and doctoral levels––is
     that you develop mastery of the material discussed in class. (You could
     be a straight-A student on paper but know little about the material.)  What
