@@ -250,3 +250,5 @@ Here is a list of useful books. We will hold summer book clubs to read and discu
 - [A World Without Email](https://www.amazon.com/World-Without-Email-Reimagining-Communication-ebook/dp/B08BKSJX1M/ref=sr_1_1?dchild=1&keywords=a+world+without+email&qid=1615577788&sr=8-1) by Cal Newport. 
 
 - [Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/1250239087/ref=sr_1_2?dchild=1&keywords=why+you+should+quit+social+media&qid=1615577884&sr=8-2) by Jaron Lanier.
+
+- [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=msx_wsirn_v1_9?pd_rd_w=qpt2y&pf_rd_p=63bf99c1-604d-4dd2-83da-823ed6681239&pf_rd_r=RECE5YP14T0QXX5PWXFS&pd_rd_r=3213cc0e-4d24-4de0-a985-c8356df4023d&pd_rd_wg=ZBPbq&pd_rd_i=B00555X8OA&psc=1) by Daniel Kahneman.
