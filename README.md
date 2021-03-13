@@ -1,7 +1,7 @@
 # Research Group Guidelines
 
 This is an evolving draft of guidelines for how to participate in the Ocean Dynamics
-Research Group at UConn. These guidelines build on similar documents by
+Research Group at UConn. This document builds on similar guidelines by
 colleagues, including Ryan Abernathey, Katy Huff, and Baylor Fox Kemper.
 
 # The short version
