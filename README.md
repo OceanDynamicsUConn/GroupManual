@@ -171,7 +171,7 @@ These include:
 
 ### Expectations for "being present" and vacation
 Making satisfactory progress towards your degree requires steadfast 
-and diligent work. Here are some groud rules.
+and diligent work. Here are some guidelines.
 
 1. **Work schedule**:
     You should aim to work about 40 hours/week (8 hours/day during weekdays). *This is the 
