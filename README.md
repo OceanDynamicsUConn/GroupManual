@@ -166,8 +166,7 @@ These include:
 
 6. **Communicate with the group**:
     You must attend group meetings and one-on-one meetings with Cesar. You are
-    also expected to communicate with your fellow group members more broadly
-    (see communication section below).
+    also encouraged to collaborate with your fellow group members.
 
 
 ### Expectations for "being present" and vacation
