@@ -55,7 +55,7 @@ These include:
     Fall and Spring semesters. Cesar is committed to pedagogical excellence, and teaching
     a great course is time-consuming, especially the first time through.   
 
-7. **Conduct personal research**
+7. **Conduct personal research**:
     On top of all the above responsibilities, the PI conducts his personal research.
     For Cesar, this is the most fun part of his job.
 
