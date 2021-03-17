@@ -2,7 +2,7 @@
 
 This is an evolving draft of the Ocean Dynamics
 Research Group manual.  It establishes high standards for the group culture and 
-defines roles and expectations expectations for group member. The manual is summarized in four tenets:
+defines roles and expectations for each group member. The manual is summarized in four tenets:
 
 - [**Respect others**](code_of_conduct.md): abide by the code of conduct.
 - [**Work hard**](./role_and_responsibilities.md): dedication begets success.
