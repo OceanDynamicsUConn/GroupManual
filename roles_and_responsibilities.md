@@ -114,7 +114,7 @@ These include:
     also encouraged to collaborate with your fellow group members.
 
 
-## Expectations for "being present" and vacation
+# Expectations for "being present" and vacation
 Making satisfactory progress towards your degree requires steadfast 
 and diligent work. Here are some guidelines.
 
@@ -143,3 +143,13 @@ and diligent work. Here are some guidelines.
 5. **Vacation and sick days**:
     UConn graduate students are entitled to a number of days of [paid leave](https://hr.uconn.edu/ga-leave-administration/) for some life events. Regardless of UConn's lack of paid vacation for graduate students, Cesar recommends that all group members take four weeks of vacation per year.
     Cesar will generally take two weeks of time off during Holidays, after the end of Fall Semester, and two weeks sometime in the summer. Cesar will notify you of his time off. You should notify him  at least two weeks in advance of your vacation plans.
+
+
+# Expectations for professional standards
+
+## Responsible conduct of research 
+
+## Treatment of data and code (and reproducibility)
+
+## Authorship and allocation of credit 
+
