@@ -153,3 +153,5 @@ and diligent work. Here are some guidelines.
 
 ## Authorship and allocation of credit 
 
+## Readings
+- [On Being a Scientist](assets/pdfs/OnBeingAScientist.pdf)

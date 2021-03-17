@@ -35,4 +35,4 @@ Useful readings:
 - [A letter on justice and open debate](https://harpers.org/a-letter-on-justice-and-open-debate/)
 - [Academics Are Really, Really Worried About Their Freedom
 ](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
-- [On Being a Scientist](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in)
+
