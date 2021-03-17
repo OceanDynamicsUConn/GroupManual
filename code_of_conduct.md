@@ -3,7 +3,7 @@ All group members must review and comply with UConn's code of conduct and ethica
 guidelines
 ([faculty and staff](https://policy.uconn.edu/2011/05/17/employee-code-of-conduct/),
 [students](https://community.uconn.edu/wp-content/uploads/sites/523/2020/09/20_21-The-Student-Code-1.pdf))
-and complete the required training about harassment and discrimination.  As a UConn Professor,
+and complete the required training on harassment and discrimination and diversity awareness.  As a UConn Professor,
 Cesar is a mandatory reporter of harassment incidents, however small.
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof),
@@ -11,9 +11,9 @@ and country of origin. It also includes deliberate intimidation, stalking, follo
 inappropriate at our work place, which includes work-related social events and online media
 (e-mail, slack).
 
-If a group member engages in harassing behavior, Cesar and UConn may take any action they deem appropriate, including warning, temporary suspension, or expulsion from the group.
+If a group member engages in harassing behavior, Cesar and UConn will take appropriate action, including warning, temporary suspension, or expulsion from the group.
 
-**If you are being harassed, notice that someone else is being harassed, or have any concerns, please
+**If you are being harassed, notice that someone else is being harassed, or have related concerns, please
 immediately contact Cesar or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
 
 Cesar commits to nurturing a healthy, productive, and
@@ -22,7 +22,7 @@ This requires that we all be open-minded and respect
 the different opinions, personalities and learning styles of our fellow group members.
 While we do not tolerate any form of harassment, we strongly encourage healthy
 skepticism and good-faith disagreement––the lifeblood of science. Group members should be mindful, however,
-that the way others perceive our opinions and actions depends heavily on their background. Attuned to other people's sensibilities, and without being
+that the way others perceive our opinions and actions depends heavily on their background. Assertiveness and self-confidence to some may sound arrogance and contempt to others. Attuned to other people's sensibilities, and without being
 tolerant with the intolerant, we
 should cut each other some slack, educate one another, and
 build a better work place together.
