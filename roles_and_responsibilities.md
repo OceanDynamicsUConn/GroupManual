@@ -154,4 +154,7 @@ and diligent work. Here are some guidelines.
 ## Authorship and allocation of credit 
 
 ## Readings
-- [On Being a Scientist](assets/pdfs/OnBeingAScientist.pdf)
+- NSF guide [On Being a Scientist](assets/pdfs/OnBeingAScientist.pdf)
+- NSF [policies on Responsible Conduct of Research](https://www.nsf.gov/bfa/dias/policy/rcr.jsp)
+- PLOS One article [on fabrication and falsification](https://marineemlab.ucsd.edu/ethics/journal.pone.0005738.pdf)
+- 
