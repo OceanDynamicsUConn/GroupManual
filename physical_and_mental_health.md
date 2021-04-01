@@ -13,7 +13,12 @@ Here are a few guidelines to help us meet that goal:
 Between classes and research, graduate school often can be demanding and
 stressful. While this is true, it is important to realize that most knowledge
 professions, which involve long-term projects and peer competition and
-sometimes fuzzy deadlines, are demanding and stressful. You should always remember that graduate work is a marathon not a sprint. So graduate school provides you with an opportunity to develop a healthy work-life balance that will not only get you to the finish line, but also prepare you for the career challenges that lie ahead. This involves developing new habits and overcoming bad ones, setting intentional short-term and long-term goals, and planning your semester and weeks and days. It also involves good sleep hygiene, among other heathy habits (exercise, meditation, deep breathing). Find what works best for you.
+sometimes fuzzy deadlines, are demanding and stressful. You should always
+remember that graduate work is a marathon not a sprint. So graduate school
+provides you with an opportunity to develop a healthy work-life balance that
+will not only get you to the finish line, but also prepare you for the career
+challenges that lie ahead. This involves developing new habits and overcoming
+bad ones, setting intentional short-term and long-term goals, and diligently planning your semester and weeks and days. It also involves good sleep hygiene, among other heathy habits (exercise, meditation, deep breathing). Find what works best for you.
 
     Speaking from personal experience, Cesar can attest that if you overwork too much you will burn out. Burnout is [common among graduate school](https://www.nature.com/articles/d41586-019-01451-9). And among other deleterious effects, burnout will suppress your productivity, potentially jeopardizing the very career goals you are working so hard towards. [Here](https://science.sciencemag.org/content/365/6448/22) are some tips from young scientists to prevent burnout.
 
