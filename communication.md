@@ -14,6 +14,6 @@ Cesar typically checks his email two times a day (morning and afternoon), so
 you should expect a one-day reponse turnaround of one day during the week. For
 urgent matters, please call his office or personal phone. 
 
-You are not expected to check your email or Teams very often. In fact, Cesar recommends that you develop productive e-mail and slack habits, because the kind of work we do requires concentration. This e-mail hygiene involves NOT working with your inbox open and de-activating notifications.  If I need something urgent from you, I will come to your office (if you are working on campus) or call you (if you are working remotely).
+You are not expected to check your email or Teams very often. In fact, Cesar recommends that you develop productive email and slack habits, because the kind of work we do requires concentration. This email hygiene involves NOT working with your inbox open and de-activating notifications.  If I need something urgent from you, I will come to your office (if you are working on campus) or call you (if you are working remotely).
 
 *You are not expected to check your email or Teams on weekends and holidays*.
