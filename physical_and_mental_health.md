@@ -21,7 +21,12 @@ challenges that lie ahead. This involves developing new habits and overcoming
 bad ones, setting intentional short-term and long-term goals, and diligently planning your semester and weeks and days. It also involves good sleep hygiene, among other heathy habits (exercise, meditation, deep breathing). Find what works best for you.
 
     Speaking from personal experience, Cesar can attest that if you overwork
-    too much you will burn out. Burnout is [endemic in graduate school](https://www.nature.com/articles/d41586-019-01451-9). And among other deleterious effects, burnout will suppress your productivity, potentially jeopardizing the very career goals you are working so hard towards. [Here](https://science.sciencemag.org/content/365/6448/22) are some tips from young scientists to prevent burnout.
+    too much you will burn out. Burnout is [endemic in graduate
+    school](https://www.nature.com/articles/d41586-019-01451-9). And among
+    other deleterious effects, burnout will suppress your productivity,
+    potentially jeopardizing the very career goals you are working so hard
+    towards. [Here](https://science.sciencemag.org/content/365/6448/22) are
+    some burnout-prevention tips from young scientists.
 
 2. **Be careful with social media**:
 Many scientists and students are now actively engaged in social media for many different reasons. Social media has benefits, such as allowing you to stay in touch with friends and family, network with people with shared interestes and goals, feel part of a community, and promote causes that you care about (digital activism). But there are many negative aspects that can cause you harm, such as exposure to cyberbullying, elevation of self-aborption, anxiety and depression, and even isolation (the oppositve of what social media purports to do). 
