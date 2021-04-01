@@ -9,7 +9,7 @@ Cesar is a mandatory reporter of harassment incidents, however small.
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof),
 and country of origin. It also includes deliberate intimidation, stalking, following, uninvited photography or recording, sustained disruption of talks (if it makes the speaker uncomfortable), inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is
 inappropriate at our work place, which includes work-related social events and online media
-(e-mail, slack).
+(email, Teams, Slack).
 
 If a group member engages in harassing behavior, Cesar and UConn will take appropriate action, including warning, temporary suspension, or expulsion from the group.
 
