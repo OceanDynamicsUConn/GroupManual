@@ -16,7 +16,7 @@ If a group member engages in harassing behavior, Cesar and UConn will take appro
 **If you are being harassed, notice that someone else is being harassed, or have related concerns, please
 immediately contact Cesar or UConn's [Office of Institutional Equity](https://equity.uconn.edu/discrimination/).**
 
-Cesar commits to nurturing a healthy, productive, and
+Cesar commits to nurturing a safe, healthy, productive, and
 intellectually stimulating work environment, where all group members thrive.
 This requires that we all be open-minded and respect
 the different opinions, personalities and learning styles of our fellow group members.
