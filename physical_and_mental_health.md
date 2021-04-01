@@ -33,7 +33,7 @@ If you notice that a fellow group member is struggling, reach out and encourage 
 
 - [Tips from neuroscience to keep you focused on hard tasks](https://www.nature.com/articles/d41586-021-00606-x)
 - [The motivatio fairy](https://www.nature.com/articles/nj7341-127a)
-- [Is Email Making Professors Studip?](https://www.chronicle.com/article/is-email-making-professors-stupid/).
+- [Is Email Making Professors Studip?](https://www.chronicle.com/article/is-email-making-professors-stupid/)
 
 ### Books
 Here is a list of useful books on productivity and life hacks. We will hold summer book clubs to read and discuss them.
