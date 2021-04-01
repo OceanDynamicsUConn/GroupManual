@@ -123,7 +123,9 @@ and diligent work. Here are some guidelines.
     number you should submit in your bi-weekly time card report*. But Cesar won't keep track of your exact work hours, because the number of hours
     you put in matters less than the amount and quality of your work. The flexibility 
     and demands of our work (paper submission and revision deadlines, field  work, conferences) means that sometimes we may have to work long hours. This should be
-    compensated by some time off within weeks of your bouts of excessive work. Working long hours for months to years is strongly discouraged (see physical and mental health remarks below).
+    compensated by some time off within weeks of your bouts of excessive work.
+    Working long hours for months to years is strongly discouraged (see
+    [physical and mental health](physical_and_mental_health.md)).
 
 2. **Expectations for "being present"**:
     While our work doesn't require a constant physical presence on campus (and so we easily adapted to remote work during the pandemic), the office still has a crucial role in our 
