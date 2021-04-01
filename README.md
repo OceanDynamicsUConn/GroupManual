@@ -17,5 +17,5 @@ Click on each tenet for detailed guidelines.
 
 
 ____________
-*This manual builds on similar guidelines by
-colleagues, including Ryan Abernathey, Katy Huff, and Baylor Fox Kemper.
+*This manual borrows heavily from similar guidelines by
+colleagues, including Ryan Abernathey and Baylor Fox Kemper.
