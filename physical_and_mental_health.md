@@ -2,7 +2,12 @@
 # Physical and mental health
 
 [Recent studies](https://www.nature.com/articles/nbt.4089?fbclid=IwAR1ujMp2cpoUOm984Lruc8ZJiC_1RPWherKesyT7oESy5frdjbGxHBHzhpQ) suggest that most graduate students are prone to anxiety and many develop 
-depression. (This [worsened with the pandemic](https://www.nature.com/articles/d41586-021-00663-2).) Universities are slowly taking the initiative to tackle the root causes (at least the institutional ones) this mental health crisis. Cesar is also deeply committed to ensuring that his students enjoy a healthy and productive time at UConn. Here are a few guidelines to help us meet that goal.
+depression. (This [worsened with the
+pandemic](https://www.nature.com/articles/d41586-021-00663-2).) Universities
+are slowly taking the initiative to tackle the root causes (at least the
+institutional ones) this mental health crisis. Cesar is also deeply committed
+to ensuring that his students enjoy a healthy and productive time at UConn.
+Here are a few guidelines to help us meet that goal:
 
 1. **Do NOT overwork**:
 Between classes and research, graduate school often can be demanding and stressful. While this is true, it is important to realize that most knowledge professions, which involve long-term projects and peer competition and sometimes unclear deadlines, are demanding and stressful. You should always remember that graduate work is a marathon not a sprint. So graduate school provides you with an opportunity to develop a healthy work-life balance that will not only get you to the finish line, but also prepare you for the career challenges that lie ahead. This involves developing new habits and overcoming bad ones, setting intentional short-term and long-term goals, and planning your semester and weeks and days. It also involves good sleep hygiene, among other heathy habits (exercise, meditation, deep breathing). Find what works best for you.
