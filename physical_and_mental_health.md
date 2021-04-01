@@ -35,7 +35,10 @@ Many scientists and students are now actively engaged in social media for many d
 
 3. **Collaborate with your colleagues**:
 Competition drives science forward, but too much of it causes anxiety. While we
-do not demonize competition, we strongly believe in collaboration. Cesar enjoys collaborating with his students and encourages everyone in the group to collaborate with one another. Share code and ideas with the group.  Help your colleague who can't get a code to work and are stuck on an analysis tasks. Help your classmates with homework (if allowed/encouraged by the instructor). Celebrate your colleague's accomplishments. 
+do not demonize competition, we strongly believe in collaboration. Cesar enjoys
+collaborating with his students and encourages everyone in the group to
+collaborate with one another. Share code and ideas with the group.  Help your
+colleague who can't get a code to work or are stuck on an analysis tasks. Help your classmates with homework (if allowed/encouraged by the instructor). Celebrate your colleague's accomplishments. 
 
     Of course, we all have our individual goals, so everyone should be mindful of each other's space and grateful for their generous time.
 
