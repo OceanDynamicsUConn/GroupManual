@@ -8,7 +8,7 @@ scientific (technical python questions, interesting papers and scientific
 talks, etc) we should try our best to use the group's workspace on Microsoft
 Teams. Among other things, Teams has the advantage of allowing us to easily
 share copy-and-paste ready bits of code among the group (we may also use Github
-for that purpose). Cesar checks Team twice a day (morning and afternoon) to see if there are any questions that require his attention.
+for that purpose). Cesar checks Teams twice a day (morning and afternoon) to see if there are any questions that require his attention.
 
 Cesar typically checks his email two times a day (morning and afternoon), so
 you should expect a one-day reponse turnaround of one day during the week. For
