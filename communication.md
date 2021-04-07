@@ -1,6 +1,5 @@
 
 # Communication  
-
 All group members should often communicate with Cesar and the group. For
 administrative stuff (paperwork to sign, remote work and vacation
 notifications, etc), you should email Cesar directly. For technical and
