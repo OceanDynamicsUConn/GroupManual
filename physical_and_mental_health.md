@@ -1,7 +1,7 @@
 
 # Physical and mental health
 
-[Recent studies](https://www.nature.com/articles/nbt.4089?fbclid=IwAR1ujMp2cpoUOm984Lruc8ZJiC_1RPWherKesyT7oESy5frdjbGxHBHzhpQ) suggest that most graduate students are prone to anxiety and many develop 
+[Studies](https://www.nature.com/articles/nbt.4089?fbclid=IwAR1ujMp2cpoUOm984Lruc8ZJiC_1RPWherKesyT7oESy5frdjbGxHBHzhpQ) suggest that most graduate students are prone to anxiety and many develop 
 depression. (This [worsened with the
 pandemic](https://www.nature.com/articles/d41586-021-00663-2).) Universities
 are slowly taking the initiative to tackle the root causes (at least the
