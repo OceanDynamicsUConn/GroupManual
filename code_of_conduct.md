@@ -27,7 +27,7 @@ tolerant with the intolerant, we
 should cut each other some slack, educate one another, and
 build a better work place together.
 
-Useful readings:
+### Useful readings
 
 - [Use science to stop sexual harassment in higher education](https://www.pnas.org/content/117/37/22614)
 - [Harassment should count as scientific misconduct](https://www.nature.com/articles/d41586-018-05076-2)
