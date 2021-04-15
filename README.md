@@ -1,7 +1,7 @@
 # Research Group Manual
 
 This is an evolving draft of the Ocean Dynamics
-Research Group manual that establishes high standards for the group culture and 
+Research Group manual. It establishes high standards for the group culture and 
 defines roles and expectations for each group member. The ultimate goal of this
 manual is to create a
 safe and productive space for everyone in the group (including guests and
