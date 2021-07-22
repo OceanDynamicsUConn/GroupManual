@@ -5,7 +5,7 @@
 depression. (This [worsened with the
 pandemic](https://www.nature.com/articles/d41586-021-00663-2).) Universities
 are slowly taking the initiative to tackle the root causes (at least the
-institutional ones) this mental health crisis. Cesar is also deeply committed
+institutional ones) of this mental health crisis. Cesar is also deeply committed
 to ensuring that his students enjoy a healthy and productive time at UConn.
 Here are a few guidelines to help us meet that goal:
 
