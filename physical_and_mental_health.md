@@ -29,8 +29,15 @@ bad ones, setting intentional short-term and long-term goals, and diligently pla
     some burnout-prevention tips from young scientists.
 
 2. **Be careful with social media**:
-Many scientists and students are now actively engaged in social media for many different reasons. Social media has benefits, such as allowing you to stay in touch with friends and family, network with people with shared interestes and goals, feel part of a community, and promote causes that you care about (digital activism). But there are many negative aspects that can cause you harm, such as exposure to cyberbullying, elevation of self-aborption, anxiety and depression, and even isolation (the oppositve of what social media purports to do). 
-
+Many scientists and students are now actively engaged in social media for many
+different reasons. Social media has benefits, such as allowing you to stay in
+touch with friends and family, network with people with shared interestes and
+goals, feel part of a community, and promote causes that you care about
+(digital activism). But there are many negative aspects that can cause you
+harm, such as exposure to cyberbullying, elevation of self-aborption, anxiety
+and depression, and even isolation (the oppositve of what social media purports
+to do).  As Jia Tolentino says, "Social media also encourages us to overvalue our opinions and cheapens
+our understanding of solidarity." 
     While you are welcome to use social media as part of your work, you should develop a healthy relationship with the platforms you use. Do not confuse work with reading social media posts (even if those posts are related to your career goals and academic interests). Do not check your feeds more than once during your work hours. Do not turn on notification or email alerts. Be mindful of what you read, write, and promote on social media––all your social media data are being collected and sold by Big Tech and may be used against you in the future. Be aware that social media heightens FOMO (fear of missing out). And remember that scientists are humans, and humans like attention (one of the most important commodities of our times).
 
 3. **Collaborate with your colleagues**:
