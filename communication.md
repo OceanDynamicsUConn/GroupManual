@@ -3,7 +3,7 @@
 All group members should often communicate with Cesar and the group. For
 administrative stuff (paperwork to sign, remote work and vacation
 notifications, etc), you should email Cesar directly. For technical and
-scientific (technical python questions, interesting papers and scientific
+scientific discussion (technical python questions, interesting papers and scientific
 talks, etc) we should try our best to use the group's workspace on Microsoft
 Teams. Among other things, Teams has the advantage of allowing us to easily
 share copy-and-paste ready bits of code among the group (we may also use Github
