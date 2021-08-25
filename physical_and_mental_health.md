@@ -13,12 +13,11 @@ Here are a few guidelines to help us meet that goal:
 Between classes and research, graduate school often can be demanding and
 stressful. While this is true, it is important to realize that most knowledge
 professions, which involve long-term projects and peer competition and
-sometimes fuzzy deadlines, are demanding and stressful. You should always
-remember that graduate work is a marathon not a sprint. So graduate school
+sometimes fuzzy deadlines, are demanding and stressful.  So graduate school
 provides you with an opportunity to develop a healthy work-life balance that
 will not only get you to the finish line, but also prepare you for the career
 challenges that lie ahead. This involves developing new habits and overcoming
-bad ones, setting intentional short-term and long-term goals, and diligently planning your semester and weeks and days. It also involves good sleep hygiene, among other heathy habits (exercise, meditation, deep breathing). Find what works best for you.
+bad ones, setting intentional short-term and long-term goals, and diligently planning your semester and weeks and days. It also involves good sleep hygiene, among other heathy habits (exercise, meditation, deep breathing). Find what works best for you. You should always remember that graduate work is a marathon not a sprint.
 
     Speaking from personal experience, Cesar can attest that if you overwork
     too much you will burn out. Burnout is [endemic in graduate
@@ -31,7 +30,7 @@ bad ones, setting intentional short-term and long-term goals, and diligently pla
 2. **Be careful with social media**:
 Many scientists and students are now actively engaged in social media for many
 different reasons. Social media has benefits, such as allowing you to stay in
-touch with friends and family, network with people with shared interestes and
+touch with friends and family, network with people with shared interests and
 goals, feel part of a community, and promote causes that you care about
 (digital activism). But there are many negative aspects that can cause you
 harm, such as exposure to cyberbullying, elevation of self-aborption, anxiety
