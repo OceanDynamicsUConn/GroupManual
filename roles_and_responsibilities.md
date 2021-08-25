@@ -132,7 +132,7 @@ and diligent work. Below are some guidelines.
     work life. If you are easily distracted, coming to the office will help you develop a 
     structured work routine. At UConn, graduate students share offices with other students, and this provides an opportunity for you to develop a network of friends who will help you along the way, cheer you up when you have a bad day, and cheer you on as you walk to the finish line. 
     
-    Our group also has a lab space, which we will use to for group meetings. You will have a key to the lab and are welcome to set up shop there, if you need some privacy.
+    Our group also has a lab space, and you are welcome to set up shop there.
 
     Of course, you may need to work remotely for many different reasons (life events, pandemic, bad weather). If your remote work is just for a few days, you don't need to notify Cesar, unless we have an in person meeting that you will miss (or have join in remotely). But if you decide to work remotely for a week or longer, you should first discuss your plans with Cesar.
 
