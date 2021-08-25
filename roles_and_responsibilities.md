@@ -27,7 +27,7 @@ These include:
 3. **Mentor students**:
    One of the most serious responsibilities
    of the PI is to mentor junior group members, shepherding
-   them through the early stages of their career and helping
+   them through the early stages of their careers and helping
    them develop into confident, humble and independent scientists.
    (This applies even if the student wants to pursue a career in industry or
    government or the third sector.) The PI also
