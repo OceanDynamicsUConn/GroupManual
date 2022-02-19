@@ -9,7 +9,7 @@ These include:
   One of the PI's critical tasks is to identify
   interesting and relevant scientific problems
   for our group to puzzle over. This requires
-  a broad and deep understanding of field and
+  a broad and deep understanding of the field and
   creativity and luck.
 
 2. **Pursue funding**:
