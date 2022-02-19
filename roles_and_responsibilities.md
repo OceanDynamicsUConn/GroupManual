@@ -134,7 +134,9 @@ and diligent work. Below are some guidelines.
     
     Our group also has a lab space, and you are welcome to set up shop there.
 
-    Of course, you may need to work remotely for many different reasons (life events, pandemic, bad weather). If your remote work is just for a few days, you don't need to notify Cesar, unless we have an in person meeting that you will miss (or have join in remotely). But if you decide to work remotely for a week or longer, you should first discuss your plans with Cesar.
+    Of course, you may need to work remotely for many different reasons (life
+    events, pandemic, bad weather). If your remote work is just for a few days,
+    you don't need to notify Cesar, unless we have an in-person meeting that you will miss (or have join in remotely). But if you decide to work remotely for a week or longer, you should first discuss your plans with Cesar.
 
 3. **Weekly meetings**:
     We will hold weekly one-on-one meetings to discuss your work. These meetings aim to define the overall direction of your research and make sure you are making significant progress towards your degree.  You should prepare for the meetings, because Cesar will ask you to summarize what you have been working. We will address any questions you have and define plans for the following week. We will also hold group meetings where you will occasionally have to present the status of your current work.
