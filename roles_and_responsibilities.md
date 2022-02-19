@@ -140,7 +140,9 @@ and diligent work. Below are some guidelines.
     We will hold weekly one-on-one meetings to discuss your work. These meetings aim to define the overall direction of your research and make sure you are making significant progress towards your degree.  You should prepare for the meetings, because Cesar will ask you to summarize what you have been working. We will address any questions you have and define plans for the following week. We will also hold group meetings where you will occasionally have to present the status of your current work.
 
 4. **Office hours**:
-    In addition to one-on-one meetings, Cesar will also hold daily office hours for group members. On a first come first serve basis, group members can drop by his office with any specific questions about your work. This is a good opportunity to chat with Cesar if you can't get your code to work or are stuck in a particular derivation. 
+    In addition to one-on-one meetings, Cesar will also hold research office
+    hours for group members three times per week (typically one hour in the
+    afternoon). On a first come first serve basis, group members can drop by his office with any specific questions about your work. This is a good opportunity to chat with Cesar if you can't get your code to work or are stuck in a particular derivation. 
 
 5. **Vacation and sick days**:
     UConn graduate students are entitled to a number of days of [paid leave](https://hr.uconn.edu/ga-leave-administration/) for some life events. Regardless of UConn's lack of paid vacation for graduate students, Cesar recommends that all group members take four weeks of vacation per year.
