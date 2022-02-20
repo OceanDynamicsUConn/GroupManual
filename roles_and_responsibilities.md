@@ -17,7 +17,7 @@ These include:
   funds from federal agencies to support our
   research program. Getting extra-mural funding
   is crucial, because a graduate student
-  at UConn costs tens of thousands of dollars per
+  at UConn costs $50k per
   year. Going to the field to collect new data
   or buying computers and high-performance computing time
   to run numerical models and analyze data also
