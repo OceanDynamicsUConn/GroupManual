@@ -30,7 +30,7 @@ These include:
    them through the early stages of their careers and helping
    them develop into confident, humble and independent scientists.
    (This applies even if the student wants to pursue a career in industry or
-   government or the third sector.) The PI also
+   government.) The PI also
    works with students from other groups, serving as their associate advisor.
    For Cesar, mentoring is one of the most satisfying parts of his job. He dedicates
    a lot of time to his students, but also expects a lot from them.
