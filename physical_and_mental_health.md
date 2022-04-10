@@ -28,7 +28,7 @@ bad ones, setting intentional short-term and long-term goals, and diligently pla
     some burnout-prevention tips from young scientists.
 
 2. **Be careful with social media**:
-Many scientists and students are now actively engaged in social media for many
+Many scientists and students are now actively engaged on social media for many
 different reasons. Social media has benefits, such as allowing you to stay in
 touch with friends and family, network with people with shared interests and
 goals, feel part of a community, and promote causes that you care about
